@@ -2,6 +2,8 @@
   "name": "i-modal-vue",
   "version": "1.0.0",
   "description": "A reusable Modal component for Vue 3",
+  "author": "Ilham Gurbanly",
+  "license": "MIT",
   "type": "module",
    "files": [
     "dist"

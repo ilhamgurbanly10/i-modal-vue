@@ -1,7 +1,7 @@
 import type { ComputedRef, EmitFn } from 'vue';
 
 export interface Options {
-    closeableClosebtn?: boolean;
+    closeableCloseBtn?: boolean;
     showCloseBtn?: boolean;
     zIndex?: number;
     center?: boolean;

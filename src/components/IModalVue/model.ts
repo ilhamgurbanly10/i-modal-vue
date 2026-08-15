@@ -24,7 +24,7 @@ const useModel = ({
   // end-calculate-sizes
 
   // close-handlers
-  const handleClosebtnClose = (): void => { options.value.closeableClosebtn ?  emits('onClose') : null; }
+  const handleClosebtnClose = (): void => { options.value.closeableCloseBtn ?  emits('onClose') : null; }
   const handleMaskClose = (): void => { options.value.closeableMask ?  emits('onClose') : null; }
   const handleEscClose = (): void => { emits('onClose'); }
   // end-close-handlers

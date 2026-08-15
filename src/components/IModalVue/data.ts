@@ -1,7 +1,7 @@
 import type { Options } from "./types";
 
 export const initialOptions: Required<Options> = {
-    closeableClosebtn: true,
+    closeableCloseBtn: true,
     showCloseBtn: true,
     closeableMask: true,
     zIndex: 9999999, 
