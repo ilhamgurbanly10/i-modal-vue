@@ -56,7 +56,7 @@ const options = reactive<IModalOptions>({
   maskColor: 'rgba(0, 0, 0, .6)',
   containerColor: 'white',
   closeOnEsc: true,
-  closeableClosebtn: true,
+  closeableCloseBtn: true,
   showCloseBtn: true,
   closeableMask: true,
   padding: 25
