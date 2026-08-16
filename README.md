@@ -10,12 +10,6 @@ $ npm install i-modal-vue
 
 ### Usage
 
-main.ts:
-
-```js
-
-```
-
 main.ts: If you wish use it as plugin, import and use it in main.ts file. And do not forget to import css file. This is global import.
 
 ```js
